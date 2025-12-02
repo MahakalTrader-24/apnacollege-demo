@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Mahakal Trader
+Author - Mahakal (Apna college)
+
